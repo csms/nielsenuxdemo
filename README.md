@@ -38,5 +38,5 @@ Very infrequent tasks during one interaction with a webpage - like performing an
 * [5000ms - 5s](https://rawgit.com/csms/nielsenuxdemo/master/progressbar/5.html)
 * [**10000ms - 10s**](https://rawgit.com/csms/nielsenuxdemo/master/progressbar/10.html)(Progress bar should be used)
 * [15000ms - 15s](https://rawgit.com/csms/nielsenuxdemo/master/progressbar/15.html)
-* [30000ms - 15s](https://rawgit.com/csms/nielsenuxdemo/master/progressbar/30.html)
-* [60000ms - 15s](https://rawgit.com/csms/nielsenuxdemo/master/progressbar/60.html)
+* [30000ms - 30s](https://rawgit.com/csms/nielsenuxdemo/master/progressbar/30.html)
+* [60000ms - 60s](https://rawgit.com/csms/nielsenuxdemo/master/progressbar/60.html)
