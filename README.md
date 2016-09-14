@@ -18,8 +18,8 @@ Tasks performed many times during an interaction with a webpage, such as adding 
 * [**1000ms - 1s**](https://rawgit.com/csms/nielsenuxdemo/master/appear/0.5.html)
 * [1500ms - 1,5s](https://rawgit.com/csms/nielsenuxdemo/master/appear/0.5.html)
 * [3000ms - 3s](https://rawgit.com/csms/nielsenuxdemo/master/appear/0.5.html)
-* [**10000ms - 10s**](https://rawgit.com/csms/nielsenuxdemo/master/appear/10.html)
-* [**15000ms - 15s**](https://rawgit.com/csms/nielsenuxdemo/master/appear/15.html)
+* [10000ms - 10s](https://rawgit.com/csms/nielsenuxdemo/master/appear/10.html)
+* [15000ms - 15s](https://rawgit.com/csms/nielsenuxdemo/master/appear/15.html)
 
 # Busy indicator
 * [1000ms - 1s](https://rawgit.com/csms/nielsenuxdemo/master/loader/1.html)
