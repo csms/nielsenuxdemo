@@ -15,7 +15,7 @@ Tasks performed many times during an interaction with a webpage, such as adding 
 * [**100ms**](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/0.1.html) (Limit if you want users to feel like their actions are directly causing something to happen on the screen)
 * [300ms](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/0.3.html)
 * [500ms](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/0.5.html)
-* [**1000ms - 1s**](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/progressbar/1.html)
+* [**1000ms - 1s**](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/1.html)
 * [1500ms - 1,5s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/1.5.html)
 * [3000ms - 3s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/3.html)
 * [10000ms - 10s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/10.html)
