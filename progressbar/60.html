@@ -47,7 +47,7 @@
 </style>
 <body>
 
-<h1>15s progress bar</h1>
+<h1>60s progress bar</h1>
 
 <div id="myProgress">
   <div id="myBar">
@@ -65,7 +65,7 @@
 function move() {
   var elem = document.getElementById("myBar");
   var width = 0;
-  var id = setInterval(frame, 150);
+  var id = setInterval(frame, 600);
   function frame() {
     if (width >= 100) {
       clearInterval(id);
