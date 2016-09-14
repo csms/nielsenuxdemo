@@ -20,7 +20,7 @@ Tasks performed many times during an interaction with a webpage, such as adding 
 * [3000ms - 3s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/3.html)
 * [10000ms - 10s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/10.html)
 * [15000ms - 15s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/15.html)
-http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/blob/master/progressbar/5.html
+
 # Busy indicator
 ## Context
 Infrequent tasks during one interaction with a webpage -  like performing first checkout steps.
