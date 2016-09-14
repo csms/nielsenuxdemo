@@ -22,6 +22,8 @@ Tasks performed many times during an interaction with a webpage, such as adding 
 * [15000ms - 15s](https://rawgit.com/csms/nielsenuxdemo/master/appear/15.html)
 
 # Busy indicator
+## Context
+Infrequent tasks during one interaction with a webpage -  like performing first checkout steps.
 * [1000ms - 1s](https://rawgit.com/csms/nielsenuxdemo/master/loader/1.html)
 * [**2000ms - 2s**](https://rawgit.com/csms/nielsenuxdemo/master/loader/2.html) (Between 2-10 progress bar may be overkill)
 * [3000ms - 4s](https://rawgit.com/csms/nielsenuxdemo/master/loader/4.html)
@@ -30,6 +32,7 @@ Tasks performed many times during an interaction with a webpage, such as adding 
 * [15000ms - 15s](https://rawgit.com/csms/nielsenuxdemo/master/loader/15.html)
 
 # Progress bar
+Very infrequent tasks during one interaction with a webpage - like performing an online payment or loading an application.
 * [1000ms - 1s](https://rawgit.com/csms/nielsenuxdemo/master/progressbar/1.html)
 * [1500ms - 1,5s](https://rawgit.com/csms/nielsenuxdemo/master/progressbar/1.5.html)
 * [5000ms - 5s](https://rawgit.com/csms/nielsenuxdemo/master/progressbar/5.html)
