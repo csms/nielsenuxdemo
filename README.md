@@ -12,9 +12,9 @@ http://www.w3schools.com/howto/howto_css_loader.asp
 # Direct manipulation
 ## Context
 Tasks performed many times during an interaction with a webpage, such as adding items to a shopping bag.
-* [**100ms**](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/progressbar/0.1.html) (Limit if you want users to feel like their actions are directly causing something to happen on the screen)
-* [300ms](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemomaster/progressbar/0.3.html)
-* [500ms](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemomaster/progressbar/0.5.html)
+* [**100ms**](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/0.1.html) (Limit if you want users to feel like their actions are directly causing something to happen on the screen)
+* [300ms](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/0.3.html)
+* [500ms](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/0.5.html)
 * [**1000ms - 1s**](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/progressbar/1.html)
 * [1500ms - 1,5s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/1.5.html)
 * [3000ms - 3s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/appear/3.html)
@@ -24,12 +24,12 @@ Tasks performed many times during an interaction with a webpage, such as adding 
 # Busy indicator
 ## Context
 Infrequent tasks during one interaction with a webpage -  like performing first checkout steps.
-* [1000ms - 1s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/loader/1.html)
-* [**2000ms - 2s**](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/loader/2.html) (Between 2-10 progress bar may be overkill)
-* [3000ms - 4s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/loader/4.html)
-* [5000ms - 5s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/loader/5.html)
-* [**10000ms - 10s**](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/loader/10.html)
-* [15000ms - 15s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/loader/15.html)
+* [1000ms - 1s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/busyindicator/1.html)
+* [**2000ms - 2s**](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/busyindicator/2.html) (Between 2-10 progress bar may be overkill)
+* [3000ms - 3s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/busyindicator/3.html)
+* [5000ms - 5s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/busyindicator/5.html)
+* [**10000ms - 10s**](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/busyindicator/10.html)
+* [15000ms - 15s](http://htmlpreview.github.io/?https://github.com/csms/nielsenuxdemo/master/busyindicator/15.html)
 
 # Progress bar
 Very infrequent tasks during one interaction with a webpage - like performing an online payment or loading an application.
