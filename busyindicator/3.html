@@ -2,6 +2,19 @@
 <html>
 <head>
 <style>
+
+#myDiv {
+  display: none;
+  text-align: center;
+}
+#label {
+	position: absolute;
+  	left: 40%;
+  	top: 5%;
+}
+#inner {
+     text-align: center;
+}
 /* Center the loader */
 #loader {
   position: absolute;
@@ -49,27 +62,27 @@
   to{ bottom:0; opacity:1 }
 }
 
-#myDiv {
-  display: none;
-  text-align: center;
-}
+
 </style>
 </head>
 <body  style="margin:0;">
+
+<div id="label">
 <h1>3s busy indicator</h1>
-
-<p><button onclick="myFunction()">Click Me</button></p>
-<div style="display:none;" id="loader"></div>
-
+<div id="inner"><button onclick="myFunction()">Click Me</button></div>
 <div style="display:none;" id="myDiv" class="animate-bottom">
 <h2>Done</h2>
-  <p>Time taken: 3s</p>
+<p>Time taken: 3s</p>
 </div>
+</div>
+<div style="display:none;" id="loader"></div>
+
 
 <script>
 var myVar;
 
 function myFunction() {
+	document.getElementById("myDiv").style.display = "none";
 	document.getElementById("loader").style.display = "block";
     myVar = setTimeout(showPage, 3000);
 }

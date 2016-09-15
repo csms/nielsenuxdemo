@@ -2,6 +2,15 @@
 <html>
 <style>
 
+#headlines {
+	position: absolute;
+  	left: 40%;
+  	top: 5%;
+}
+#inner {
+     text-align: center;
+}
+
 * Add animation to "page content" */
 .animate-bottom {
   position: relative;
@@ -46,9 +55,10 @@
 }
 </style>
 <body>
-
+<div id="inner">
 <h1>60s progress bar</h1>
-
+<button onclick="move()">Click Me</button>
+</div><br/>
 <div id="myProgress">
   <div id="myBar">
     <div id="label">0%</div>
@@ -56,14 +66,16 @@
 </div>
 <div style="display:none;" id="myDiv" class="animate-bottom">
   <h2>Done</h2>
-  <p>Time taken: 15s </p>
+  <p>Time taken: 60s </p>
 </div>
 <br>
-<button onclick="move()">Click Me</button>
 
 <script>
 function move() {
-  var elem = document.getElementById("myBar");
+    document.getElementById("myDiv").style.display = "none";
+     var elem = document.getElementById("myBar");
+  	elem.style.display="block";
+  	elem.style.width="0";
   var width = 0;
   var id = setInterval(frame, 600);
   function frame() {
